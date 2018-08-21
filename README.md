@@ -11,7 +11,7 @@ It contains a parallax effect created by IT-Maniax Team.
 
 ### Demo ###
 
-+ [Loader](https://jsfiddle.net/itmaniax/w5k1hu7c)
++ [Parallax](https://jsfiddle.net/itmaniax/jhw5fe3v/)
 
 ***
 
